@@ -1,0 +1,1 @@
+ffmpeg -i bad-apple.webm -r 15 -vf "scale=480:360" bad-apple-%01d.png
