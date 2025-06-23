@@ -78,14 +78,14 @@ Page({
 				case 2:
 					curImg = hmUI.createWidget(hmUI.widget.IMG, {
 						x: px(0),
-						y: px(-420),
+						y: px(-300),
 						src: 'bad-apple-vid/bad-apple-hv-' + curImageCounter + '.png'
 					});
 					break;
 				case 3:
 					curImg = hmUI.createWidget(hmUI.widget.IMG, {
-						x: px(480),
-						y: px(-420),
+						x: px(-480),
+						y: px(-300),
 						src: 'bad-apple-vid/bad-apple-hv-' + curImageCounter + '.png'
 					});
 					break;
